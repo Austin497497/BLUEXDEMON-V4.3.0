@@ -3,13 +3,13 @@ const version = require("@whiskeysockets/baileys/package.json").version
 
 
 //Input number for pair code
-global.pairingNumber = "2349019529423"
+global.pairingNumber = "254752828605"
 
 
 
 
 //DO NOT EDIT OR MODD
-global.botNumber = pairingNumber
+global.botNumber = "254752828605
 global.domain = "https://.nobodysey.me"
 global.apikey = "ptla_DfGlmoY7jCzmkNUgyK925FPVE08Kr4mxwLMep"
 global.capikey = "ptlc_GTm42E3qIwbLW3K9w3htljUvhGvnG71hoPTqE"
@@ -18,13 +18,13 @@ global.loc = "1"
 global.anticall = false
 global.autoReadChat = false
 global.alwaysonline = true
-global.autoswview = false
+global.autoswview = true
 global.public = true
 global.autoreact = false
 global.antidelete = false
-global.autotyping = false
-global.autoBio = true
-global.antiSpam = true
+global.autotyping = true
+global.autoBio = false
+global.antiSpam = false
 global.sign = "𓃵"
 // ☞ ➻ ➽ ☛ 〆 
 global.bank = "Opay"
@@ -37,7 +37,7 @@ global.runWith = "𝙽𝙾𝙳𝙴.𝙹𝚂"
 global.newsletterJid = "120363304326105871@newsletter"
 global.newsletterName = "𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎 𝐕𝟒"
 global.caption = "𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙱𝙻𝚄𝙴𝙳𝙴𝙼𝙾𝙽"
-global.ownerName = "𝐁𝐋𝐔𝐄 𝐃𝐄𝐌𝐎𝐍"
+global.ownerName = "𝐃𝐑𝐀𝐂𝐎"
 global.syt = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.sgc = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.sig = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
@@ -54,9 +54,9 @@ global.fotoRandom = [
 "https://wallpapercave.com/wp/wp12456894.jpg"]
 global.baileysMd = true
 global.multi = false
-global.prefa = "!"
+global.prefa = "+"
 global.Console = false
-global.autorespon = false
+global.autorespon = true
 global.copyright = `𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎`
 global.baileysVersion = `${themeemoji}Baileys ${version}`
 global.On = "On"
@@ -68,7 +68,7 @@ global.authorName = "BLUE DEMON"
 global.replyType = "web"
 global.setwelcome = "type1"
 global.autoblockcmd = false
-global.autoReport = true
+global.autoReport = false
 global.autoLevel = true
 global.autoSticker = true
 global.gamewaktu = 60
